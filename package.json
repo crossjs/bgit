@@ -1,6 +1,6 @@
 {
   "name": "bgit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "static (blog) site generator",
   "bin": {
     "bgit": "./bin/bgit.js"
@@ -29,7 +29,6 @@
     "async": "^0.9.0",
     "chalk": "^0.5.1",
     "commander": "^2.5.1",
-    "compass": "^0.1.0",
     "del": "^1.1.1",
     "extend": "^2.0.0",
     "finalhandler": "^0.3.2",
@@ -42,7 +41,6 @@
     "serve-static": "^1.7.1",
     "showdown": "^0.3.1",
     "strip-ansi": "^2.0.1",
-    "text-table": "^0.2.0",
     "underscore.string": "^2.4.0"
   }
 }
