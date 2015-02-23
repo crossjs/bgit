@@ -1,6 +1,6 @@
 {
   "name": "bgit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "static (blog) site generator",
   "bin": {
     "bgit": "./bin/bgit.js"
